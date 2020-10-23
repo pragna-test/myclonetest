@@ -1,0 +1,2 @@
+# myclonetest
+export to localsystem
